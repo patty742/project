@@ -1,0 +1,8 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "satr_url":"standalone",
+  "display" : "standalone",
+  "theme_color": "#blue"
+  
+}
