@@ -1,10 +1,11 @@
-import React, {useState} from 'react';
-
-
+import React, {useState} from 'react'
 const api = {
   key: "c351ea0acc04028b7647c23016f8f38c",
-  base: "https://api.openweathermap.org/data/2.5/"  
+  base: "https://api.openweathermap.org/data/2.5/"
 }
+
+ 
+  
 
 function App() {
   const [query, setQuery] = useState('');
